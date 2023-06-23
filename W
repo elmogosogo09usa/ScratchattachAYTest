@@ -1,0 +1,3 @@
+import scratchattach as scratch3
+
+session = scratch3.login("elmogosogo09usa", "X10152009x")
